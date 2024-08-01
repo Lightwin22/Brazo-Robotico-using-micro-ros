@@ -20,6 +20,7 @@ se muestran a continuación.
 
 Si bien en un principio lo ideal era poder modelar el brazo robotico, nos vimos alcanzandos con los tiempos de entrega de dicho proyecto, por lo que tomamos la decisión de tomar un modelo ya creado. 
 El modelo que se verá a continuación pertenece a `Fabri_creator`, el cual fue tomado para este proyecto y posteriormente impreso para su implementacion.
+
 ![](https://fbi.cults3d.com/uploaders/17468605/illustration-file/0738d729-4e37-4b25-855a-0c7bb736fee5/Captura-de-pantalla-2021-06-25-093903.png)
 
 ## Creación de nodos y paquetes en Micro-ros
